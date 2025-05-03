@@ -1,5 +1,8 @@
 # 🕊️ Tribute Page
 
+![Queen-The-band-that-changed-everything](images/Queen-The-band-that-changed-everything.png)
+
+
 This is a simple frontend project — a tribute page created as part of my web development learning journey.
 
 🔗 [Live Demo](https://caruy5roz.github.io/Tribute-Page/)
